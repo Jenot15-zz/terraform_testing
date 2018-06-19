@@ -1,2 +1,4 @@
 access.tf
 variables.tf
+terraform.tfstate
+terraform.tfstate.backup
